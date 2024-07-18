@@ -1,6 +1,5 @@
 package com.yakub.employee.Controller;
 
-import com.yakub.employee.Exceptions.NoDataToShowException;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
